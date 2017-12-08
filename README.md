@@ -1,1 +1,1 @@
-# magazyn-produktow-online
+# Magazyn Produktow Online
